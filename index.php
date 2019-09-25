@@ -18,7 +18,7 @@
 </head>
 <body>
 	<header>
-		<h1>Responsividade</h1>
+		<h1>Responsividade -</h1>
 		<div>
 			<a href="javascript:abrirmenu()"><img width="16" src="menu-icon.png" alt="menu" /></a>
 		</div>
